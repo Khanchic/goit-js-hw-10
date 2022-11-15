@@ -18,3 +18,20 @@ body {
   max-width: 320px;
   margin-bottom: 16px;
 }
+
+.countrie-list__img {
+  width: 30px;
+  height: 18px;
+  margin-right: 5px;
+}
+.country-list {
+  list-style: none;
+  padding: 0px;
+  
+}
+.countrie__img {
+  display: block;
+  width: 100px;
+    height: 60px;
+    margin-right: 5px;
+}
